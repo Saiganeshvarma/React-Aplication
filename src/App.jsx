@@ -168,7 +168,7 @@ export default function App() {
       `}</style>
 
       <div className="container">
-        <h1>🛒 Products</h1>
+        <h1>🛒 Products List</h1>
 
         <div className="grid">
           {products.map((product) => (
